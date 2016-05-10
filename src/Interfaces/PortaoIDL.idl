@@ -1,0 +1,7 @@
+interface Portao{
+    boolean verificarEntrada();
+    boolean verificarSaida();
+    void registrarEntrada();
+    void registrarSaida();
+    long verificarVisitantes();
+};

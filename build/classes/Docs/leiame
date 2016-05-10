@@ -1,0 +1,13 @@
+@author Joamila Brito
+Created: 24/04/2016
+Last Modified: 24/04/2016
+
+Linguagem: Java
+IDE: NetBeans 8.1
+Compilador: javac
+
+Como executar a aplicação:
+1. Abrir o prompt e executar o comando: tnameserv
+2. Executar as classes servidoras: "src\PortaoServidor.java" ; "src/GuardaServidor.java"; "src/AlarmeServidor.java"
+2. Executar as classes clientes: "src\PortaoCliente.java" ; "src/GuardaCliente.java"; "src/AlarmeCliente.java" 
+

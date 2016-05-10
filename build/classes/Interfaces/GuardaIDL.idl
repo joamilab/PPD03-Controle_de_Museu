@@ -1,0 +1,8 @@
+interface Guarda{
+    void informarMudModo(in long modo);
+    boolean verificarMudModo();
+    long consultarModo();
+    void iniciarGuarda();
+    boolean verificarGuarda();
+    void desativarGuarda();
+};

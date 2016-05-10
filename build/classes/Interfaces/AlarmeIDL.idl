@@ -1,0 +1,7 @@
+interface Alarme{
+    void informarInvasao();
+    boolean verificarInvasao();
+    void iniciarAlarme();
+    void desativarAlarme();
+    boolean verificarAlarme();
+};
